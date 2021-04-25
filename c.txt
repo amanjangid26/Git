@@ -1,2 +1,1 @@
-This is my 3rd file.
-Added in Remote repo
+This is my 3rd file
